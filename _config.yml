@@ -1,3 +1,8 @@
-theme: mmistakes/minimal-mistakes@latest
 title: Per's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+# Bruk remote_theme i stedet for theme
+remote_theme: "mmistakes/minimal-mistakes@latest"
+
+plugins:
+  - jekyll-include-cache
