@@ -1,7 +1,7 @@
 title: Per Lund
 description: Developer portfolio — showing my projects and work in tech.
 url: "https://mrexes72.github.io"
-baseurl: "" # leave blank unless du har repo under submappe
+baseurl: "/perlund-portfolio" # leave blank unless du har repo under submappe
 locale: "en-US"
 
 # 🔹 Remote theme (riktig branch)
@@ -35,7 +35,7 @@ author:
       url: "https://github.com/Mrexes72"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/per-lund/"
+      url: "https://www.linkedin.com/in/per-lund-66a4ab389/"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:per.lund@example.com"
