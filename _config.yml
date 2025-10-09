@@ -1,58 +1,71 @@
-title: "Per Lund"
-description: "Utvikler — prosjekter, kode og idéer"
+title: Per Lund
+description: Developer portfolio — showing my projects and work in tech.
 url: "https://mrexes72.github.io"
-baseurl: ""
+baseurl: "" # leave blank unless du har repo under submappe
+locale: "en-US"
 
-remote_theme: "mmistakes/minimal-mistakes@latest"
+# 🔹 Remote theme (riktig branch)
+remote_theme: "mmistakes/minimal-mistakes@master"
+
+# 🔹 Plugins som kreves
 plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
 
-# --- Utseende og layout ---
+# 🔹 Layout
+markdown: kramdown
+highlighter: rouge
+
+# 🔹 Tema-innstillinger
 minimal_mistakes_skin: "dark"
 
+# 🔹 Personal info
+author:
+  name: "Per Lund"
+  bio: "Aspiring developer with passion for web, security and clean design."
+  avatar: "/assets/images/profile.jpg" # optional – legg til eget bilde her
+  location: "Norway"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Mrexes72"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/per-lund/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:per.lund@example.com"
+
+# 🔹 Default layout
 defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
-      author_profile: true
   - scope:
       path: ""
       type: "posts"
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
 
-# --- Navigasjon ---
-nav:
-  - title: "Hjem"
-    url: /
-  - title: "Prosjekter"
-    url: /projects/
-  - title: "Om meg"
-    url: /about/
+# 🔹 Pagination settings
+paginate: 5
+paginate_path: /page:num/
 
-# --- Forfatterinformasjon ---
-author:
-  name: "Per Lund"
-  avatar: "/assets/images/profile.jpg"   # Last opp et bilde her
-  bio: "Fullstack-utvikler og sikkerhetsspesialist. Brenner for web, sikkerhet og kreative løsninger."
-  location: "Oslo, Norge"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Mrexes72"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/perlund"
+# 🔹 Include directories
+include:
+  - _pages
 
-# --- Footer ---
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Mrexes72"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/perlund"
+# 🔹 Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
