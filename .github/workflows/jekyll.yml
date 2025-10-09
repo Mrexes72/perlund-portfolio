@@ -29,9 +29,14 @@ jobs:
         run: |
           gem install bundler
           bundle init
-          echo 'gem "jekyll"' >> Gemfile
+          echo 'gem "jekyll", "~> 4.4"' >> Gemfile
           echo 'gem "jekyll-remote-theme"' >> Gemfile
           echo 'gem "minimal-mistakes-jekyll"' >> Gemfile
+          echo 'gem "jekyll-seo-tag"' >> Gemfile
+          echo 'gem "jekyll-feed"' >> Gemfile
+          echo 'gem "jekyll-sitemap"' >> Gemfile
+          echo 'gem "jekyll-paginate"' >> Gemfile
+          echo 'gem "jekyll-include-cache"' >> Gemfile
           bundle install
 
       - name: Build Jekyll site
