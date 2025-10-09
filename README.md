@@ -1,4 +1,5 @@
-# perlund-portfolio
+<h2 align="center">🌟 Velkommen til min portefølje 🌟</h2>
+
 
 2) Webprogrammering — Bildekommentarer & Notater
 
@@ -15,4 +16,4 @@ Teknisk utfordring & læring:
 
 Design av database-relasjoner og autorisasjon; forbedret forståelsen av REST-endepunkter og relational modelling.
 Demo / kode: <link>
-Repo: <link>
+Repo: https://github.com/Selundq/ITPE3200-React
