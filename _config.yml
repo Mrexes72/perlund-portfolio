@@ -1,8 +1,58 @@
-title: Per's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Per Lund"
+description: "Utvikler — prosjekter, kode og idéer"
+url: "https://mrexes72.github.io"
+baseurl: ""
 
-# Bruk remote_theme i stedet for theme
 remote_theme: "mmistakes/minimal-mistakes@latest"
-
 plugins:
   - jekyll-include-cache
+
+# --- Utseende og layout ---
+minimal_mistakes_skin: "dark"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+
+# --- Navigasjon ---
+nav:
+  - title: "Hjem"
+    url: /
+  - title: "Prosjekter"
+    url: /projects/
+  - title: "Om meg"
+    url: /about/
+
+# --- Forfatterinformasjon ---
+author:
+  name: "Per Lund"
+  avatar: "/assets/images/profile.jpg"   # Last opp et bilde her
+  bio: "Fullstack-utvikler og sikkerhetsspesialist. Brenner for web, sikkerhet og kreative løsninger."
+  location: "Oslo, Norge"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Mrexes72"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/perlund"
+
+# --- Footer ---
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Mrexes72"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/perlund"
