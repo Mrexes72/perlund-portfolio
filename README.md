@@ -1,18 +1,32 @@
 <h2 align="center">🌟 Velkommen til min portefølje 🌟</h2>
 
-2. Webprogrammering — Bildekommentarer & Notater
+Dette er kildekoden til min personlige porteføljeside laget med **Jekyll** og hostet via **GitHub Pages**.  
+Her presenterer jeg mine prosjekter, erfaringer og faglige interesser innen utvikling.
 
-Tittel: Bilder, kommentarer og notater — enkel web-applikasjon
-Kort: En liten full-stack app som lar brukere laste opp bilder og knytte kommentarer/notater til bilder (faget Webprogrammering).
-Min rolle: Fullstack-utvikler — frontend + backend.
-Teknologi: HTML/CSS/JavaScript (frontend) + <velg backend, f.eks. ASP.NET Core eller Node/Express> + SQLite / SQL Server (database).
-Hva jeg bygde:
+---
 
-Opplasting av bilder, tilknytning av kommentarer (relasjon mellom bilde og kommentarer).
+### 🔗 Se nettsiden her:
 
-UI for visning, sortering og søk.
-Teknisk utfordring & læring:
+👉 [perlund-portfolio (live)](https://mrexes72.github.io/perlund-portfolio/)
 
-Design av database-relasjoner og autorisasjon; forbedret forståelsen av REST-endepunkter og relational modelling.
-Demo / kode: <link>
-Repo: https://github.com/Selundq/ITPE3200-React
+---
+
+### 📁 Innhold i porteføljen
+
+- **Om meg** – kort introduksjon og kontaktinfo
+- **Prosjekter** – utvalgte prosjekter fra studier og hobbyarbeid
+- **Teknologier** – oversikt over språk og verktøy jeg bruker
+
+---
+
+### 🧠 Teknologier brukt
+
+- **Jekyll** for struktur og layout
+- **Markdown** for innhold
+- **GitHub Pages** for hosting
+
+---
+
+💬  
+Jeg oppdaterer porteføljen fortløpende med nye prosjekter og refleksjoner.  
+Ta gjerne kontakt via [LinkedIn](https://www.linkedin.com/in/per-lund-66a4ab389/) eller [GitHub](https://github.com/Mrexes72).
