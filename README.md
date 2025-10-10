@@ -1,7 +1,6 @@
 <h2 align="center">🌟 Velkommen til min portefølje 🌟</h2>
 
-
-2) Webprogrammering — Bildekommentarer & Notater
+2. Webprogrammering — Bildekommentarer & Notater
 
 Tittel: Bilder, kommentarer og notater — enkel web-applikasjon
 Kort: En liten full-stack app som lar brukere laste opp bilder og knytte kommentarer/notater til bilder (faget Webprogrammering).

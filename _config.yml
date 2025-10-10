@@ -37,6 +37,9 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:per.lund93@gmail.com"
+    - label: "Boot.dev"
+      icon: "fas fa-graduation-cap"
+      url: "https://www.boot.dev/u/desertedfail01"
 
 # 🔹 Layout defaults
 defaults:

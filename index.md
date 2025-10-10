@@ -4,21 +4,11 @@ author_profile: true
 title: "Per Lund"
 ---
 
-<h3>Boot.dev Progress</h3>
-<p><strong>Lessons completed:</strong> {{ site.data.bootdev.lessons }}</p>
+## Boot.dev Profile
 
-<h4>Courses</h4>
-<ul>
-  {% for course in site.data.bootdev.courses %}
-    <li>{{ course }}</li>
-  {% endfor %}
-</ul>
-
-<h4>Guided Projects</h4>
-<ul>
-  {% for project in site.data.bootdev.projects %}
-    <li>{{ project }}</li>
-  {% endfor %}
-</ul>
-
-<p><em>Last updated: {{ site.data.bootdev.lastUpdated }}</em></p>
+<div style="margin-top: 1rem;">
+  <a href="https://www.boot.dev/u/desertedfail01" target="_blank" 
+     style="display:inline-block; padding:0.5rem 1rem; background-color:#0066ff; color:white; border-radius:5px; text-decoration:none;">
+    View my Boot.dev profile →
+  </a>
+</div>
