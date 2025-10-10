@@ -1,0 +1,32 @@
+name: Update Boot.dev Data
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # kjør hver dag kl 06:00 UTC
+  workflow_dispatch: # lar deg starte manuelt fra Actions-fanen
+
+jobs:
+  update-bootdev:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Boot.dev update script
+        run: node scripts/update-bootdev.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add _data/bootdev.json
+          git commit -m "Update Boot.dev data"
+          git push
