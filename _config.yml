@@ -20,6 +20,15 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
+# 🔹 Navigasjon (ersatter teamets standard)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About"
+    url: "/about/"
+
 # 🔹 Tema-innstillinger
 minimal_mistakes_skin: "dark"
 
