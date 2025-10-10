@@ -1,13 +1,14 @@
-title: Per Lund
-description: Developer portfolio — showing my projects and work in tech.
+title: "Per Lund"
+description: "Developer portfolio — showing my projects and work in tech."
 url: "https://mrexes72.github.io"
-baseurl: "/perlund-portfolio" # leave blank unless du har repo under submappe
+baseurl: "/perlund-portfolio" # bruk bare om repoen faktisk heter slik
 locale: "en-US"
 
-# 🔹 Remote theme (riktig branch)
+# 🔹 Tema
 remote_theme: "mmistakes/minimal-mistakes@master"
+minimal_mistakes_skin: "dark"
 
-# 🔹 Plugins som kreves
+# 🔹 Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -16,27 +17,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-# 🔹 Layout
+# 🔹 Markdown og highlight
 markdown: kramdown
 highlighter: rouge
 
-# 🔹 Navigasjon (ersatter teamets standard)
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "About"
-    url: "/about/"
-
-# 🔹 Tema-innstillinger
-minimal_mistakes_skin: "dark"
-
-# 🔹 Personal info
+# 🔹 Forfatterinfo
 author:
   name: "Per Lund"
   bio: "Aspiring developer with passion for web, security and clean design."
-  avatar: "/assets/images/profile.jpg" # optional – legg til eget bilde her
+  avatar: "/assets/images/profile.jpg"
   location: "Norway"
   links:
     - label: "GitHub"
@@ -49,7 +38,7 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:per.lund93@gmail.com"
 
-# 🔹 Default layout
+# 🔹 Layout defaults
 defaults:
   - scope:
       path: ""
@@ -64,15 +53,16 @@ defaults:
       layout: single
       author_profile: true
 
-# 🔹 Pagination settings
+# 🔹 Pagination (valgfritt)
 paginate: 5
 paginate_path: /page:num/
 
-# 🔹 Include directories
+# 🔹 Navigasjon (tømt — fjerner “Quick Start Guide”)
+nav: []
+
+# 🔹 Include og exclude
 include:
   - _pages
-
-# 🔹 Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
