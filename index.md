@@ -16,7 +16,7 @@ Jeg liker å lage løsninger som faktisk brukes, og jeg lærer raskt nye teknolo
 ### ☕ Drømmekoppen
 
 Backend-utvikler og enhetstester i bachelorprosjektet "Drømmekoppen", hvor brukeren bygger sin egen kaffekopp med sanntidsvisualisering.  
-[Les mer →](/_pages/projects.md#drømmekoppen--bachelorprosjekt-2025)
+[Les mer →](/perlund-portfolio/projects/#drømmekoppen--bachelorprosjekt-2025)
 
 ---
 
@@ -24,14 +24,14 @@ Backend-utvikler og enhetstester i bachelorprosjektet "Drømmekoppen", hvor bruk
 
 Fullstack-prosjekt fra Webprogrammering — bygget med ASP.NET Core backend og React frontend.  
 Brukere kan laste opp bilder, skrive notater og kommentere på både bilder og andres kommentarer.  
-[Les mer →](/_pages/projects.md#bilder-kommentarer-og-notater-fullstack-prosjekt)
+[Les mer →](/perlund-portfolio/projects/#bilder-kommentarer-og-notater-fullstack-prosjekt)
 
 ---
 
 ### 🧩 Notes Service i Go
 
 Et lite læringsprosjekt i Go for å forstå REST-API-design og goroutines.  
-[Les mer →](/_pages/projects.md#mini-mikrotjeneste-i-go--notes-service)
+[Les mer →](/perlund-portfolio/projects/#mini-mikrotjeneste-i-go--notes-service)
 
 ---
 
