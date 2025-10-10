@@ -8,6 +8,7 @@ title: "Per Lund"
 
 Jeg er nyutdannet utvikler fra Anvendt Datateknologi ved OsloMet, med erfaring fra backend og fullstack-prosjekter i .NET, C#, React og Go.  
 Jeg liker å lage løsninger som faktisk brukes, og jeg lærer raskt nye teknologier når jeg ser hvordan de løser reelle problemer.
+[Les mer →](/perlund-portfolio/about/)
 
 ---
 
