@@ -24,7 +24,7 @@ Backend-utvikler og enhetstester i bachelorprosjektet "Drømmekoppen", hvor bruk
 
 Fullstack-prosjekt fra Webprogrammering — bygget med ASP.NET Core backend og React frontend.  
 Brukere kan laste opp bilder, skrive notater og kommentere på både bilder og andres kommentarer.  
-[Les mer →](/perlund-portfolio/projects/#-bilder-kommentarer-og-notater-fullstack-prosjekt)
+[Les mer →](/perlund-portfolio/projects/#%EF%B8%8F-bilder-kommentarer-og-notater-fullstack-prosjekt)
 
 ---
 

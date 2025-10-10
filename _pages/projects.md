@@ -1,11 +1,9 @@
 ---
 layout: single
-title: Projects
+title: Prosjekter
 permalink: /projects/
 author_profile: true
 ---
-
-# Prosjekter
 
 Her finner du en oversikt over noen av mine prosjekter. Jeg har valgt ut tre som viser bredden i min erfaring – fra backend og enhetstesting i bachelorprosjektet, til fullstack-utvikling med .NET og React.
 
