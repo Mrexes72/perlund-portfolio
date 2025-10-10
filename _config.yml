@@ -1,7 +1,7 @@
 title: "Per Lund"
 description: "Developer portfolio — showing my projects and work in tech."
 url: "https://mrexes72.github.io"
-baseurl: "/perlund-portfolio" # bruk bare om repoen faktisk heter slik
+baseurl: "/perlund-portfolio"
 locale: "en-US"
 
 # 🔹 Tema
