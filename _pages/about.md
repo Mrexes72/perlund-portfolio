@@ -34,6 +34,23 @@ Jeg liker å forstå hvordan ting henger sammen — fra database til frontend �
 
 ---
 
+## 📘 Kurs og sertifiseringer
+
+Jeg bygger kontinuerlig kompetanse gjennom Boot.dev, en læringsplattform for praktisk programmering og datavitenskap.  
+Her er noen av kursene jeg har fullført:
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <a href="https://www.boot.dev/certificates/3fba4a65-3623-4af7-8f73-60cf50bef392" target="_blank">
+    <img src="https://www.boot.dev/certificates/3fba4a65-3623-4af7-8f73-60cf50bef392" width="200" style="border-radius:10px;" />
+  </a>
+  <a href="https://www.boot.dev/certificates/another-cert" target="_blank">
+    <img src="https://www.boot.dev/certificates/another-cert" width="200" style="border-radius:10px;" />
+  </a>
+</div>
+_(flere kurs legges til etter hvert)_
+
+---
+
 ## 📫 Kontakt
 
 Du kan finne meg på:
