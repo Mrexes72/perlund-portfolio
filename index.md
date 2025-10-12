@@ -46,12 +46,7 @@ Boot.dev legger vekt på ekte kode fremfor teori, og har gitt meg en dypere fors
 
 ![Boot.dev thumbnail](https://api.boot.dev/v1/users/public/e1b56be9-8659-4774-b4fe-c892ac51d41a/thumbnail)
 
-<div style="margin-top: 1rem;">
-  <a href="https://www.boot.dev/u/desertedfail01" target="_blank" 
-     style="display:inline-block; padding:0.5rem 1rem; background-color:#0066ff; color:white; border-radius:5px; text-decoration:none;">
-    Se min Boot.dev profile →
-  </a>
-</div>
+[Les mer →](https://www.boot.dev/u/desertedfail01)
 
 ---
 
