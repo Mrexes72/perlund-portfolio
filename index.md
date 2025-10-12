@@ -33,11 +33,11 @@ Brukere kan laste opp bilder, skrive notater og kommentere på både bilder og a
 
 Prosjektet viser hvordan man kan bygge en autonom AI-agent som både forstår kontekst og utfører faktiske handlinger gjennom kode.
 Det fungerer som et fundament for å bygge mer avanserte AI-verktøy og assistenter som kombinerer naturlig språk med faktisk handling.  
-[Les mer →](/perlund-portfolio/projects/#-AI-agent i Python--"Build an AI Agent in Python")
+[Les mer →](/perlund-portfolio/projects/#-ai-agent-i-python--build-an-ai-agent-with-gemini)
 
 ---
 
-## Boot.dev Profile
+## 🧑‍💻 Boot.dev Profile
 
 Jeg bruker Boot.dev som en praktisk læringsplattform for å styrke ferdighetene mine innen backend-utvikling og algoritmisk tenkning.
 Gjennom interaktive kurs og små kodeprosjekter får jeg hands-on erfaring i språk som Go og Python med fokus på datastrukturer, algoritmer og API-utvikling.

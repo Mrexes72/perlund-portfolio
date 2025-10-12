@@ -41,7 +41,7 @@ Jeg hadde hovedansvar for backend-logikken, enhetstesting av API-endepunktene og
 
 - Del 1: C#, ASP.NET Core (både frontend og backend)
 - Del 2: ASP.NET Core backend (C#) + React frontend (TypeScript)
-- Database: SQL Server
+- Database: SQLite
 
 **Beskrivelse:**  
 Dette prosjektet ble utviklet i to deler som en del av faget Webprogrammering.  
@@ -70,7 +70,7 @@ I den andre versjonen flyttet vi frontend til React (TypeScript) for en mer dyna
 
 ## 🤖 AI-agent i Python — "Build an AI Agent with Gemini"
 
-Rolle: Solo-utvikler
+Rolle: Solo-utvikler  
 Teknologi: Python, Google Gemini API (genai), dotenv, subprocess
 
 Beskrivelse:
@@ -95,5 +95,61 @@ Læringspunkter:
 - Robust feilhåndtering og output-parsing
 
 📎 _Kode:_ [Se prosjekt på GitHub](https://github.com/Mrexes72/ai-agent)
+
+---
+
+## 🪐 Asteroids — Objektorientert spillutvikling i Python
+
+Beskrivelse:  
+Et moderne gjenoppbygg av det klassiske Asteroids-spillet, utviklet fra bunnen av i Python med Pygame.
+Spillet demonstrerer bruk av objektorientert programmering (OOP), kollisjonsdeteksjon og enkel fysikksimulering.
+
+Teknologi og verktøy:
+
+- Python
+- Pygame
+- Objektorientert programmering (OOP)
+- Hendelseshåndtering, animasjon og spill-logikk
+
+Funksjonalitet:
+
+- Spilleren kan bevege, rotere og skyte
+- Kuler har nedkjøling (cooldown) for realistisk gameplay
+- Asteroider beveger seg i tilfeldige retninger og splittes ved treff
+- Kollisjoner oppdages og håndteres dynamisk
+
+Hva jeg lærte:
+
+- Hvordan strukturere et spill i Python ved hjelp av klasser
+- Implementering av kollisjonsdeteksjon mellom objekter
+- Oppdateringsløkker, animasjon og hendelsesstyrt programmering
+- Design av små, isolerte moduler for ulike spillkomponenter
+
+📎 _Kode:_ [Se prosjekt på GitHub](https://github.com/Mrexes72/Asteroids)
+
+---
+
+## 🐍 Bookbot — Tekstanalyse i Python
+
+Beskrivelse:
+Et lite kommandolinjeverktøy som analyserer tekstfiler (for eksempel bøker) og genererer en rapport over ordtelling og bokstavfrekvens.
+Prosjektet ble utviklet som en introduksjon til lokale CLI-applikasjoner i Python, med fokus på filhåndtering, strengbehandling og bruk av moduler.
+
+Teknologi og verktøy:
+
+- Python
+- Kommandolinje (CLI)
+- Filhåndtering og datastrukturer (dict, list)
+- Funksjonsdeling og modulstruktur
+
+Hva jeg lærte:  
+Gjennom prosjektet fikk jeg erfaring med hvordan man:
+
+- Leser og prosesserer tekstfiler i Python
+- Bruker ordbøker og lister for statistisk analyse
+- Skriver modulær og gjenbrukbar kode (import av stats.py)
+- Lager et ryddig brukergrensesnitt i terminalen
+
+📎 _Kode:_ [Se prosjekt på GitHub](https://github.com/Mrexes72/bookbot)
 
 Flere prosjekter kommer snart 🚧
