@@ -25,7 +25,7 @@ highlighter: rouge
 author:
   name: "Per Lund"
   bio: "Aspiring developer with passion for web, security and clean design."
-  avatar: "/assets/images/profile.jpg"
+  avatar: "/assets/images/Profile.jpg"
   location: "Norway"
   links:
     - label: "GitHub"
