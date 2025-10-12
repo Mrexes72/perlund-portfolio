@@ -68,28 +68,32 @@ I den andre versjonen flyttet vi frontend til React (TypeScript) for en mer dyna
 
 ---
 
-## 🧩 Mini-mikrotjeneste i Go — "Notes Service"
+## 🤖 AI-agent i Python — "Build an AI Agent with Gemini"
 
-**Rolle:** Solo-utvikler  
-**Teknologi:** Go (Golang), Gin, SQLite (eller in-memory), Docker
+Rolle: Solo-utvikler
+Teknologi: Python, Google Gemini API (genai), dotenv, subprocess
 
-**Beskrivelse:**  
-Et læringsprosjekt hvor jeg bygde en liten mikrotjeneste i Go som lar brukeren opprette, lese, oppdatere og slette notater via et REST-API.  
-Målet med prosjektet var å lære Go-syntaks, idiomatisk struktur og hvordan man håndterer routing, feil og samtidighet (goroutines).
+Beskrivelse:
+Et eksperimentelt prosjekt hvor jeg bygde en AI-agent i Python som kan tolke brukerkommandoer, planlegge funksjonskall og utføre dem dynamisk.
+Agenten kommuniserer med Gemini-modellen gjennom et system av meldinger (messages) og kan blant annet liste filer, lese innhold, kjøre Python-filer og skrive filer basert på hva brukeren spør om.
 
-**Funksjonalitet:**
+Prosjektet var en del av et dypdykk i LLM-integrasjon, tool use og “reasoning loops”, hvor modellen selv avgjør når og hvordan verktøy skal brukes.
 
-- CRUD-endepunkter for notater
-- Håndtering av JSON-requests/responses
-- Enkel lokal lagring i SQLite / in-memory
-- Dockerfile for enkel kjøring og testing
+Funksjonalitet:
 
-**Læringspunkter:**
+- Dynamisk funksjonskall basert på LLM-respons
+- Iterativ “reasoning loop” med maks 20 steg
+- Integrasjon mot Google Gemini via genai.Client
+- Sikker kjøring av Python-filer med subprocess og mappesjekk
+- Støtte for både tekstrespons og funksjonsresultater
 
-- Forståelse av Go sine idiomer, structer og interfaces
-- Bruk av Gin-rammeverket for HTTP-håndtering
-- Erfaring med Docker og containerisering
+Læringspunkter:
 
-📎 _Kode:_ [Se prosjekt på GitHub](#)
+- Bruk av Gemini API og verktøysfunksjoner i Python
+- Implementering av funksjonskall i LLM-agent-arkitektur
+- Forståelse av samtalehistorikk (messages) og tool responses
+- Robust feilhåndtering og output-parsing
+
+📎 _Kode:_ [Se prosjekt på GitHub](https://github.com/Mrexes72/ai-agent)
 
 Flere prosjekter kommer snart 🚧

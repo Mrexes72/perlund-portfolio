@@ -29,23 +29,31 @@ Brukere kan laste opp bilder, skrive notater og kommentere på både bilder og a
 
 ---
 
-### 🧩 Notes Service i Go
+### 🤖 AI-agent i Python — "Build an AI Agent in Python"
 
-Et lite læringsprosjekt i Go for å forstå REST-API-design og goroutines.  
-[Les mer →](/perlund-portfolio/projects/#-mini-mikrotjeneste-i-go--notes-service)
+Prosjektet viser hvordan man kan bygge en autonom AI-agent som både forstår kontekst og utfører faktiske handlinger gjennom kode.
+Det fungerer som et fundament for å bygge mer avanserte AI-verktøy og assistenter som kombinerer naturlig språk med faktisk handling.  
+[Les mer →](/perlund-portfolio/projects/#-AI-agent i Python--"Build an AI Agent in Python")
 
 ---
 
 ## Boot.dev Profile
+
+Jeg bruker Boot.dev som en praktisk læringsplattform for å styrke ferdighetene mine innen backend-utvikling og algoritmisk tenkning.
+Gjennom interaktive kurs og små kodeprosjekter får jeg hands-on erfaring i språk som Go og Python med fokus på datastrukturer, algoritmer og API-utvikling.
+
+Boot.dev legger vekt på ekte kode fremfor teori, og har gitt meg en dypere forståelse av hvordan man bygger robuste og effektive systemer fra bunnen av.
 
 ![Boot.dev thumbnail](https://api.boot.dev/v1/users/public/e1b56be9-8659-4774-b4fe-c892ac51d41a/thumbnail)
 
 <div style="margin-top: 1rem;">
   <a href="https://www.boot.dev/u/desertedfail01" target="_blank" 
      style="display:inline-block; padding:0.5rem 1rem; background-color:#0066ff; color:white; border-radius:5px; text-decoration:none;">
-    View my Boot.dev profile →
+    Se min Boot.dev profile →
   </a>
 </div>
+
+---
 
 📬 **Kontakt meg:**  
 Du kan finne meg på:
@@ -53,3 +61,5 @@ Du kan finne meg på:
 - [GitHub](https://github.com/Mrexes72)
 - [LinkedIn](https://www.linkedin.com/in/per-lund-66a4ab389/)
 - Email: per.lund93@gmail.com
+
+---
