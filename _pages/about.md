@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# 👋 Hei, mitt navn er Per Lund
-
 Jeg er en **fullstack-utvikler med interesse for sikkerhet**, bosatt i Oslo.  
 Jeg fullførte nylig en bachelor i _Anvendt datateknologi_ ved OsloMet, der jeg spesialiserte meg i webutvikling, backend-løsninger og datasikkerhet.
 
@@ -40,24 +38,12 @@ Jeg bygger kontinuerlig kompetanse gjennom Boot.dev, en læringsplattform for pr
 Her er noen av kursene jeg har fullført:
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
-<a href="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/811448bd-6f09-4af7-87fe-941517908757.jpeg?v=1758902101" target="_blank">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/811448bd-6f09-4af7-87fe-941517908757.jpeg?v=1758902101" width="200" style="border-radius:10px;" />
-  </a>
-<a href="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e6c28dba-75e3-4d2b-b467-d39daa624808.jpeg?v=1758902101" target="_blank">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e6c28dba-75e3-4d2b-b467-d39daa624808.jpeg?v=1758902101" width="200" style="border-radius:10px;" />
-  </a>
-  <a href="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3fba4a65-3623-4af7-8f73-60cf50bef392.jpeg?v=1760271085" target="_blank">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3fba4a65-3623-4af7-8f73-60cf50bef392.jpeg?v=1760271085" width="200" style="border-radius:10px;" />
-  </a>
-  <a href="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/14be7a6b-4717-4673-8097-50aea24ef800.jpeg?v=1759165642" target="_blank">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/14be7a6b-4717-4673-8097-50aea24ef800.jpeg?v=1759165642" width="200" style="border-radius:10px;" />
-  </a>
-  <a href="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3e4ecbde-d54c-4078-aa2c-dc7f992f08ec.jpeg?v=1759165642" target="_blank">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3e4ecbde-d54c-4078-aa2c-dc7f992f08ec.jpeg?v=1759165642" width="200" style="border-radius:10px;" />
-  </a>
-  <a href="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b32d7c5f-270b-4ecb-80c0-93895d61d278.jpeg?v=1760272187" target="_blank">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b32d7c5f-270b-4ecb-80c0-93895d61d278.jpeg?v=1760272187" width="200" style="border-radius:10px;" />
-  </a>
 </div>
 _(flere kurs legges til etter hvert)_
 
