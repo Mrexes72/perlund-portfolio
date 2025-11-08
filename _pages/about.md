@@ -44,6 +44,7 @@ Her er noen av kursene jeg har fullført:
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/14be7a6b-4717-4673-8097-50aea24ef800.jpeg?v=1759165642" width="200" style="border-radius:10px;" />
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3e4ecbde-d54c-4078-aa2c-dc7f992f08ec.jpeg?v=1759165642" width="200" style="border-radius:10px;" />
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b32d7c5f-270b-4ecb-80c0-93895d61d278.jpeg?v=1760272187" width="200" style="border-radius:10px;" />
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/817d7909-0deb-417c-83fe-01e95e49e489.jpeg?v=1762593522" width="200" style="border-radius:10px;" />
 </div>
 _(flere kurs legges til etter hvert)_
 
