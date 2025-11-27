@@ -27,7 +27,7 @@ Jeg hadde hovedansvar for backend-logikken, enhetstesting av API-endepunktene og
 - Strukturering av kode for testbarhet og bruk av xUnit til enhetstesting.
 - Samarbeid i team med delt ansvar for både backend og UI-logikk.
 
-📎 _Kode:_ [Se prosjekt på GitHub](https://github.com/LightningGoose/Drommekoppen)  
+📎 _Kode:_ [Se prosjekt på GitHub](https://github.com/Mrexes72/Bachelor-Project-MyBranch)  
 🧠 [🌐 matchaogmocha.no](https://matchaogmocha.no)
 
 - (Merk: Nettsiden kjører på gratisnivået i Azure, og kan derfor være treg ved oppstart. Dette er bevisst for å holde kostnadene nede.)
