@@ -63,7 +63,7 @@ I den andre versjonen flyttet vi frontend til React (TypeScript) for en mer dyna
 - Forståelse av datamodellering og relasjoner
 - Integrasjon av React-frontend mot .NET-backend
 
-📎 _Kode:_ [Se prosjekt på GitHub](https://github.com/Selundq/ITPE3200-React)  
+📎 _Kode:_ [Se prosjekt på GitHub](https://github.com/Mrexes72/ITPE3200-React)  
 🧠 _Demo:_ Vises på forespørsel
 
 ---
